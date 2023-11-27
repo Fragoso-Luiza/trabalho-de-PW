@@ -1,0 +1,22 @@
+#corpo{
+    background-color: rgb(230, 201, 164);
+}
+
+#letra1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+
+#letra2{
+    text-align: center;
+}
+
+#botao{
+    background-color: black;
+    text-decoration-color: antiquewhite;
+}
+
+#botao1{
+    background-color: rgb(104, 83, 83);
+}
